@@ -8,7 +8,7 @@
 
 Voyager's 2.0 is proposed to operate through:
 
-- **1 Core Council** consisting of 4 positions.
+- **1 Core Council** consisting of 3 positions.
 - **7 equal departments**, each with the same internal hierarchy.
 - A simple chain of responsibility:
 
@@ -47,7 +47,7 @@ The Core Council provides overall leadership, administration, coordination, and 
 
 ## 2.2 Vice President
 
-**Primary responsibility:** Overall coordination and execution.
+**Primary responsibility:** Overall coordination, execution, and financial oversight.
 
 ### Responsibilities
 - Coordinates between all seven departments.
@@ -55,6 +55,10 @@ The Core Council provides overall leadership, administration, coordination, and 
 - Resolves inter-department coordination issues.
 - Supports the President in organizational decisions.
 - Ensures decisions of the Core Council are implemented.
+- Oversees financial management and maintains financial records.
+- Coordinates budget preparation and tracks expenditure and reimbursements.
+- Maintains sponsorship-related financial records.
+- Ensures spending follows college/institutional rules.
 
 ---
 
@@ -75,25 +79,11 @@ The Core Council provides overall leadership, administration, coordination, and 
 
 ---
 
-## 2.4 Treasurer
-
-**Primary responsibility:** Financial management.
-
-### Responsibilities
-- Maintains financial records.
-- Prepares budgets.
-- Tracks expenditure and reimbursements.
-- Maintains sponsorship-related financial records.
-- Prepares financial reports.
-- Ensures spending follows college/institutional rules.
-
----
-
 # 3. Department Structure
 
 Every department follows the same hierarchy:
 
-> **1 Head → 3 Secretaries → 4 Coordinators → Members**
+> **1 Head → 2 Secretaries → 4 Coordinators → Members**
 
 ### Role definitions
 
@@ -140,12 +130,6 @@ Every department follows the same hierarchy:
 - Competitive programming
 - Coding practice initiatives
 
-### Secretary 3 — AI/ML & Emerging Technology
-- AI/ML activities
-- Emerging technologies
-- Technical research implementation
-- AI/technology workshops
-
 ### Coordinators - 4
 
 ### Members
@@ -171,12 +155,6 @@ Participate in technical activities, projects, competitions, and learning initia
 - Issue/PR activities
 - Open-source community participation
 
-### Secretary 3 — Innovation & Collaboration
-- Innovation projects
-- Research collaborations
-- Interdisciplinary projects
-- External research opportunities
-
 ### Coordinators - 4
 
 ### Members
@@ -201,12 +179,6 @@ Participate in research, open-source projects, innovation initiatives, and colla
 - Choreography
 - Performances
 - Dance competitions
-
-### Secretary 3 — Theatre & Arts
-- Drama
-- Theatre
-- Art activities
-- Stage performances
 
 ### Coordinators - 4
 
@@ -234,12 +206,6 @@ Participate in performances, competitions, and cultural activities.
 - Table tennis
 - Other indoor games
 
-### Secretary 3 — Fitness & Activities
-- Fitness initiatives
-- Wellness activities
-- Recreational activities
-- Sports awareness
-
 ### Coordinators - 4
 
 ### Members
@@ -265,12 +231,6 @@ Participate in sports teams, tournaments, and activities.
 - Event reports
 - Publications
 
-### Secretary 3 — Literary Activities
-- Debates
-- Quizzes
-- Literary competitions
-- Public speaking/anchoring activities
-
 ### Coordinators - 4
 
 ### Members
@@ -295,12 +255,6 @@ Write, edit, research, and contribute to editorial and literary activities.
 - Event videography
 - Interviews
 - Visual documentation
-
-### Secretary 3 — Video & Digital Media
-- Reels
-- Video editing
-- Aftermovies
-- Digital content production
 
 ### Coordinators - 4
 
@@ -329,18 +283,12 @@ Support design, photography, videography, and media production.
 - Guest speakers
 - Industry sessions
 
-### Secretary 3 — Partnerships & Collaborations
-- College/club collaborations
-- External organizations
-- Institutional partnerships
-- Strategic collaborations
-
 ### Coordinators - 4
 
 ### Members
 Research prospects, support outreach, prepare proposals, and assist with external coordination.
 
-**Financial principle:** Corporate Relations may negotiate and coordinate sponsorships, but financial commitments, receipts, expenditure, and financial records remain under the Treasurer/Core Council.
+**Financial principle:** Corporate Relations may negotiate and coordinate sponsorships, but financial commitments, receipts, expenditure, and financial records remain under the Vice President/Core Council.
 
 ---
 
@@ -361,8 +309,7 @@ VOYAGER'S 2.0
                               │            Documentation
                               │            Official Coordination
                               │
-                           Treasurer
-                     Financial Management
+                    Financial Management
                               │
                               ▼
                     7 EQUAL DEPARTMENTS
@@ -375,7 +322,7 @@ VOYAGER'S 2.0
        │        │             │            │        │        │            │
      Head     Head           Head         Head     Head     Head         Head
        │        │             │            │        │        │            │
-    3 Sec.   3 Sec.         3 Sec.       3 Sec.   3 Sec.   3 Sec.       3 Sec.
+    2 Sec.   2 Sec.         2 Sec.       2 Sec.   2 Sec.   2 Sec.       2 Sec.
        │        │             │            │        │        │            │
   4 Coord. 4 Coord.         4 Coord.     4 Coord. 4 Coord. 4 Coord.     4 Coord.
        │        │             │            │        │        │            │
@@ -385,64 +332,58 @@ VOYAGER'S 2.0
 
 
 
----
 
-# 12. Position Count
 
-### Per Department
 
+## 12. Position Count
+
+**Per Department**
 - 1 Head
-- 3 Secretaries
+- 2 Secretaries
 - 4 Coordinators
 - 4 initial Members
 
-**Total = 12 positions per department**
+**Total = 11 positions per department**
 
-### Across 7 Departments
+**Across 7 Departments**
+- 7 × 11 = 77 department positions
 
-**7 × 12 = 84 department positions**
+**Including Core Council**
+- 77 Department positions
+- 3 Core Council positions
 
-### Including Core Council
-
-- 84 Department positions
-- 4 Core Council positions
-
-**Total proposed organizational capacity = 88 positions**
-
-
+**Total proposed organizational capacity = 80 positions**
 
 ---
 
-# 13. Founding Leadership Team — Selection Process
+## 13. Founding Leadership Team — Selection Process
 
-The initial objective is to establish a **Founding Leadership Team of 18 fourth-year students** before opening recruitment to other years.
+The initial objective is to establish a Founding Leadership Team of 17 fourth-year students before opening recruitment to other years.
 
-### Proposed composition
+**Proposed composition:**
+- 3 Core Council positions
+- 7 Department Heads
+- 7 Department Secretaries
 
-- **4 Core Council positions**
-- **7 Department Heads**
-- **7 Department Secretaries**
+**Total = 17 founding leaders**
 
-**Total = 18 founding leaders**
-
-The initial founding team is therefore not intended to fill all 84 department positions immediately. The remaining Secretaries, Coordinators, and Members can be recruited after the founding structure is established.
+The initial founding team is therefore not intended to fill all 77 department positions immediately. The remaining Secretaries, Coordinators, and Members can be recruited after the founding structure is established.
 
 ---
 
-## 13.1 Eligibility
+### 13.1 Eligibility
 
-The initial Founding Leadership Team application will be open to **4th-year students**.
+The initial Founding Leadership Team application will be open to 4th-year students.
 
 After the founding leadership team is finalized, recruitment can be opened to students from other eligible years for the remaining departmental positions.
 
 ---
 
-# 14. Founding Leadership Application
+## 14. Founding Leadership Application
 
 A single application form will be used for all 4th-year applicants rather than creating separate application processes for each position.
 
-## Section 1 — Basic Information
-
+**Section 1 — Basic Information**
 - Name
 - Branch
 - Contact information
@@ -450,28 +391,24 @@ A single application form will be used for all 4th-year applicants rather than c
 
 ---
 
-## Section 2 — Leadership Interest
+**Section 2 — Leadership Interest**
 
-### Which leadership area interests you?
-
+Which leadership area interests you?
 - Core Council
 - Department Head
 - Department Secretary
 - Open to any suitable leadership position
 
-### If interested in Core Council, which position(s) interest you?
-
+If interested in Core Council, which position(s) interest you?
 - President
 - Vice President
 - General Secretary
-- Treasurer
 - Open to any Core Council position
 
-### Department Preferences
+**Department Preferences**
+Applicants selecting a department-level leadership role will provide two department preferences:
 
-Applicants selecting a department-level leadership role will provide **two department preferences**:
-
-**First preference:**  
+*First preference:*
 - Technical
 - Research & Open Source
 - Cultural
@@ -480,7 +417,7 @@ Applicants selecting a department-level leadership role will provide **two depar
 - Design & Media
 - Corporate Relations
 
-**Second preference:**  
+*Second preference:*
 - Technical
 - Research & Open Source
 - Cultural
@@ -493,10 +430,9 @@ The preferences are intended to guide placement while allowing the selection pan
 
 ---
 
-# 15. Section 3 — Skills & Experience
+## 15. Section 3 — Skills & Experience
 
 Applicants will provide:
-
 - Relevant skills
 - Previous responsibilities
 - Projects handled
@@ -505,25 +441,23 @@ Applicants will provide:
 - Any other experience relevant to the role
 
 A useful experience question:
-
-> **Describe one project, event, activity, or responsibility that you independently handled. What was your role and what was the outcome?**
+> Describe one project, event, activity, or responsibility that you independently handled. What was your role and what was the outcome?
 
 This focuses on demonstrated ownership rather than simply asking whether an applicant has "leadership experience."
 
 ---
 
-# 16. Section 4 — Motivation
+## 16. Section 4 — Motivation
 
-> **Why do you want to be part of the Founding Leadership Team of Voyager's 2.0, and what would you like to contribute or build through it?**
+> Why do you want to be part of the Founding Leadership Team of Voyager's 2.0, and what would you like to contribute or build through it?
 
 ---
 
-# 17. Section 5 — Availability & Commitment
+## 17. Section 5 — Availability & Commitment
 
 Applicants will indicate their realistic weekly availability.
 
 Suggested options:
-
 - 1–2 hours
 - 2–4 hours
 - 4–6 hours
@@ -533,24 +467,20 @@ The purpose is to understand realistic commitment, particularly for leadership p
 
 ---
 
-# 18. Selection Process
+## 18. Selection Process
 
 The proposed selection process is:
 
-### Step 1 — Application
-
+**Step 1 — Application**
 Open the Founding Leadership Team form to 4th-year students.
 
-### Step 2 — Application Review
-
+**Step 2 — Application Review**
 Review submitted applications for relevant experience, skills, motivation, preferences, and availability.
 
-### Step 3 — Interview
-
+**Step 3 — Interview**
 Invite suitable applicants for a structured interview.
 
 Interviews should focus on:
-
 - Leadership ability
 - Reliability and ownership
 - Communication
@@ -562,12 +492,10 @@ Interviews should focus on:
 
 Core Council candidates may receive additional questions because their responsibilities affect the entire organization.
 
-### Step 4 — Role Allocation
-
+**Step 4 — Role Allocation**
 A selection panel reviews candidates and determines the most suitable placement.
 
 The final allocation will consider:
-
 1. Demonstrated capability
 2. Leadership potential
 3. Relevant skills and experience
@@ -578,27 +506,20 @@ The final allocation will consider:
 
 The applicant's preference is considered, but it does not automatically guarantee a particular position.
 
-### Step 5 — Finalize the 18-Person Founding Leadership Team
-
+**Step 5 — Finalize the 17-Person Founding Leadership Team**
 The selected team will consist of:
 
-**Core Council**
+*Core Council*
 - President
 - Vice President
 - General Secretary
-- Treasurer
 
-**Department Leadership**
+*Department Leadership*
 - 7 Department Heads
 - 7 Department Secretaries
 
-
-### Step 6 — Open Recruitment
-
-After the founding leadership structure is finalized, recruitment will be opened to **all eligible years** for the remaining positions.
+**Step 6 — Open Recruitment**
+After the founding leadership structure is finalized, recruitment will be opened to all eligible years for the remaining positions.
 
 The subsequent structure will develop toward:
-
-> **Head → Secretaries → Coordinators → Members**
-
----
+> Head → Secretaries → Coordinators → Members
